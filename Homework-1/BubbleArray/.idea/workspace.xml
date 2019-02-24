@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723d28f0-846e-447d-a9f3-5276ce501527" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Factorial/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ternarn_operator/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-11" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
@@ -188,7 +191,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
