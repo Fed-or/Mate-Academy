@@ -14,7 +14,6 @@ public class Exponentiating {
         System.out.println("Число " + number + " в кубе равно: " + raiseToPower(number, 3) + ";");
         System.out.println("Число " + number + " в степени " + power + " равно: " + raiseToPower(number, power) + ";");
     }
-
     public static int raiseToPower(int base, int exponent) {
         int result = 1;
         for (int i = 1; i <= exponent; i++) {
