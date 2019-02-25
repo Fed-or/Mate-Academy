@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class BubbleSort { //пузырьковая сортировка
+public class BubbleSort {
     public static void toBubbleSort(int[] arrayForSort) {
 
         for (int i = arrayForSort.length - 1; i >= 1; i--) {

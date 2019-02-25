@@ -2,10 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723d28f0-846e-447d-a9f3-5276ce501527" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ternarn_operator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/Homework_first_lesson.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/out/production/Homework_first_lesson/Football.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/out/production/Homework_first_lesson/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/src/Football.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/src/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="51">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="89" selection-start-line="89" selection-end-line="89" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="170">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -95,17 +114,17 @@
         <option value="$PROJECT_DIR$/src/BubbleArray.java" />
         <option value="$PROJECT_DIR$/src/Selection.java" />
         <option value="$PROJECT_DIR$/src/CourseArray.java" />
-        <option value="$PROJECT_DIR$/src/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/mergeSort.java" />
         <option value="$PROJECT_DIR$/src/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
@@ -137,7 +156,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551029267987" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551090380001" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Factorial" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -191,7 +210,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
@@ -228,16 +247,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/CourseArray.java" />
-    <entry file="file://$PROJECT_DIR$/src/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -261,15 +270,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

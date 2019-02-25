@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="142e7ecc-4950-4467-b6a3-6f3b07dcc6a2" name="Default Changelist" comment="Power of numbers">
+      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BubbleArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ternarn_operator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/Homework_first_lesson.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/out/production/Homework_first_lesson/Football.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/out/production/Homework_first_lesson/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/src/Football.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternarn_operator/src/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,7 +86,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551043578307" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551043999007" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BubbleArray" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -144,7 +155,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -155,7 +165,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
