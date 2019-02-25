@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bde15048-835a-40c5-af34-d3ad77322ed4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/Result.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BubbleArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Rhombus/out/production/Rhombus/Rhombus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/out/production/Rhombus/Rhombus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rhombus/src/Rhombus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/src/Rhombus.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

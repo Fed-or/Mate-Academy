@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a923c23e-7ca7-435a-b8a3-470e6ce3698d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/Result.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BubbleArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ternarn_operator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/Homework_first_lesson.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/out/production/Homework_first_lesson/Football.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/out/production/Homework_first_lesson/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/src/Football.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rhombus/Rhombus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rhombus/Rhombus.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +21,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Rhombus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+            <state relative-caret-position="164">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,6 +60,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,13 +73,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551043999153" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ternarn_operator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ternary_operator" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -133,14 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551041411822</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added constants instead magic numbers">
+      <created>1551095076620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551095076620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -170,13 +170,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Rhombus from stars" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Rhombus from stars" />
+    <MESSAGE value="added constants instead magic numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="added constants instead magic numbers" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Rhombus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        <state relative-caret-position="164">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
