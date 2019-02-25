@@ -37,24 +37,5 @@ public class Factorial {
         }
         return fibonacci(numbersFibonacci - 1) + fibonacci(numbersFibonacci - 2);
 
-
-        /*
-        ArrayList<Integer> fibonacciSeries = new ArrayList<>();
-        int number0 = 1;
-        int number1 = 1;
-        int number2;
-        fibonacciSeries.add(1);
-        fibonacciSeries.add(1);
-
-        for (int i = 2; i < numbersFibonacci; i++) {
-            number2 = number0 + number1;
-            fibonacciSeries.add(number2);
-            number0 = number1;
-            number1 = number2;
-
-        }
-        return fibonacciSeries;
-    }*/
-
     }
 }
