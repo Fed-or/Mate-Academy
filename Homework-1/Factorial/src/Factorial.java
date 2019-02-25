@@ -12,7 +12,7 @@ public class Factorial {
         System.out.println("Факториал числа " + number + ": " + "\n" + fact(number));
         System.out.println();
         System.out.println("Первые " + number + " чисел ряда Фибоначчи: ");
-        for(int i = 0; i < number; i++) {
+        for (int i = 0; i < number; i++) {
             System.out.println(i + ": " + fibonacci(i));
         }
         System.out.println();
@@ -21,10 +21,9 @@ public class Factorial {
     public static int fact(int numberForFactorial) {
         int result;
 
-        if (numberForFactorial == 1 || numberForFactorial == 0) {
-            return 1;
-        }
-        result = fact(numberForFactorial - 1) * numberForFactorial;
+        result = (numberForFactorial == 1 || numberForFactorial == 0) ? 1 :
+                fact(numberForFactorial - 1) * numberForFactorial;
+
         return result;
     }
 
@@ -33,7 +32,7 @@ public class Factorial {
         if (numbersFibonacci == 1 || numbersFibonacci == 2) {
             return 1;
         }
-        if (numbersFibonacci == 0){
+        if (numbersFibonacci == 0) {
             return 0;
         }
         return fibonacci(numbersFibonacci - 1) + fibonacci(numbersFibonacci - 2);
