@@ -15,21 +15,24 @@ public class Rhombus {
 
     public static void createRhombus(int diagonalOfRhombus) {
 
+        String space = " ";
+        String star = "* ";
+
         for (int i = 0; i < diagonalOfRhombus; i++) {
             for (int y = 0; y < diagonalOfRhombus - i; y++) {
-                System.out.print(" ");
+                System.out.print(space);
             }
             for (int j = 0; j <= i; j++) {
-                System.out.print("* ");
+                System.out.print(star);
             }
             System.out.println();
         }
         for (int i = diagonalOfRhombus - 2; i >= 0; i--) {
             for (int y = 0; y < diagonalOfRhombus - i; y++) {
-                System.out.print(" ");
+                System.out.print(space);
             }
             for (int j = 0; j <= i; j++) {
-                System.out.print("* ");
+                System.out.print(star);
             }
             System.out.println();
         }

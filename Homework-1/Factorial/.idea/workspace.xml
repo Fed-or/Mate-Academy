@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bde15048-835a-40c5-af34-d3ad77322ed4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../BubbleArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleArray/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rhombus/out/production/Rhombus/Rhombus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/out/production/Rhombus/Rhombus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rhombus/src/Rhombus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/src/Rhombus.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +75,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551029267953" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rhombus" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551094607117</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added ternary operator">
+      <created>1551094699203</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551094699203</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">

@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="723d28f0-846e-447d-a9f3-5276ce501527" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exponentiating/out/production/Exponentiating/Exponentiating.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exponentiating/out/production/Exponentiating/Exponentiating.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Factorial/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/src/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rhombus/out/production/Rhombus/Rhombus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/out/production/Rhombus/Rhombus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rhombus/src/Rhombus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/src/Rhombus.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -137,7 +137,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551094642599" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551094715803" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exponentiating" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
