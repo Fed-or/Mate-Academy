@@ -15,6 +15,8 @@ public class Ternary{
             teamTwo = Integer.parseInt(reader.readLine());
             betTeamOne = Integer.parseInt(reader.readLine());
             betTeamTwo = Integer.parseInt(reader.readLine());
+
+            reader.close();
             System.out.println(wonOrLost(teamOne, teamTwo, betTeamOne, betTeamTwo));
         }
 
