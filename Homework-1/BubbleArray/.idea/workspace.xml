@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723d28f0-846e-447d-a9f3-5276ce501527" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ternary_operator/src/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exponentiating/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rhombus/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ternarn_operator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/Homework_first_lesson.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/out/production/Homework_first_lesson/Football.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/out/production/Homework_first_lesson/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/src/Football.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ternarn_operator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exponentiating/out/production/Exponentiating/Exponentiating.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exponentiating/out/production/Exponentiating/Exponentiating.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exponentiating/src/Exponentiating.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exponentiating/src/Exponentiating.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -156,8 +136,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551090380001" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Factorial" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551093976963" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exponentiating" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -206,12 +186,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551040917182</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added braces">
+      <created>1551090433797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551090433797</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -243,7 +229,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sorting of arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sorting of arrays" />
+    <MESSAGE value="added braces" />
+    <option name="LAST_COMMIT_MESSAGE" value="added braces" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/CourseArray.java" />
