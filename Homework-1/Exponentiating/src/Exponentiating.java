@@ -10,9 +10,9 @@ public class Exponentiating {
         int number = Integer.parseInt(reader.readLine());
         int power = Integer.parseInt(reader.readLine());
 
-        System.out.println("Число " + number + " в квадрате равно: " + raiseToPower(number, 2) + ";");
-        System.out.println("Число " + number + " в кубе равно: " + raiseToPower(number, 3) + ";");
-        System.out.println("Число " + number + " в степени " + power + " равно: " + raiseToPower(number, power) + ";");
+        System.out.println("Number " + number + " squared = " + raiseToPower(number, 2) + ";");
+        System.out.println("Number " + number + " cubed = " + raiseToPower(number, 3) + ";");
+        System.out.println("Number " + number + " power " + power + " = " + raiseToPower(number, power) + ";");
     }
 
     public static double raiseToPower(int base, int exponent) {
