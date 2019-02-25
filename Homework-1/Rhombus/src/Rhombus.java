@@ -4,6 +4,9 @@ import java.io.InputStreamReader;
 
 public class Rhombus {
 
+    public static final String innerOfRhombus = "* ";
+    public static final String outsideOfRhombus = " ";
+
     public static void main(String[] args) throws IOException {
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
@@ -11,28 +14,26 @@ public class Rhombus {
         int rhombusSide = Integer.parseInt(reader.readLine());
 
         createRhombus(rhombusSide);
+        reader.close();
     }
 
     public static void createRhombus(int diagonalOfRhombus) {
 
-        String space = " ";
-        String star = "* ";
-
         for (int i = 0; i < diagonalOfRhombus; i++) {
-            for (int y = 0; y < diagonalOfRhombus - i; y++) {
-                System.out.print(space);
+            for (int space = 0; space < diagonalOfRhombus - i; space ++) {
+                System.out.print(outsideOfRhombus);
             }
             for (int j = 0; j <= i; j++) {
-                System.out.print(star);
+                System.out.print(innerOfRhombus);
             }
             System.out.println();
         }
         for (int i = diagonalOfRhombus - 2; i >= 0; i--) {
-            for (int y = 0; y < diagonalOfRhombus - i; y++) {
-                System.out.print(space);
+            for (int space = 0; space < diagonalOfRhombus - i; space++) {
+                System.out.print(outsideOfRhombus);
             }
             for (int j = 0; j <= i; j++) {
-                System.out.print(star);
+                System.out.print(innerOfRhombus);
             }
             System.out.println();
         }
