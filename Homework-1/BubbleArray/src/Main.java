@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         Random random = new Random();
-        int[] unSortArray = new int[1000000];
+        int[] unSortArray = new int[10];
 
         for (int i = 0; i < unSortArray.length; i++) {
             unSortArray[i] = (random.nextInt(100));
@@ -63,7 +63,7 @@ public class Main {
 
         InsertSort.toInsertSort(unSortArray);
 
-        System.out.println("after bubble insertSorting: ");
+        System.out.println("after insertSorting: ");
         System.out.println(Arrays.toString(unSortArray));
 
         long after4 = System.currentTimeMillis();

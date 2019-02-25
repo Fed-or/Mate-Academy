@@ -1,5 +1,5 @@
 
-public class SelectionSort { //сортировка выбором
+public class SelectionSort {
 
     public static void selectSort(int[] numbers) {
 
