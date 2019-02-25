@@ -7,9 +7,9 @@ public class SelectionSort {
 
         for (int i = 0; i < numbers.length - 1; i++) {
             int min = i;
-            for (int y = i + 1; y < numbers.length; y++) {
-                if (numbers[y] < numbers[min])
-                    min = y;
+            for (int next = i + 1; next < numbers.length; next++) {
+                if (numbers[next] < numbers[min])
+                    min = next;
             }
 
             temp = numbers[min];
