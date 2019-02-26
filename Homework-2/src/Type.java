@@ -1,2 +1,3 @@
-public class Type {
+public enum Type {
+    CITY_CAR, SPORTS_CAR
 }

@@ -4,8 +4,8 @@ import java.io.InputStreamReader;
 
 public class Rhombus {
 
-    public static final String STAR_CONST = "* ";
-    public static final String SPACE_CONST = " ";
+    private static final String STAR_CONST = "* ";
+    private static final String SPACE_CONST = " ";
 
     public static void main(String[] args) throws IOException {
 
