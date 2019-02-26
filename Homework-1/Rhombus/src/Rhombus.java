@@ -4,8 +4,8 @@ import java.io.InputStreamReader;
 
 public class Rhombus {
 
-    public static final String innerOfRhombus = "* ";
-    public static final String outsideOfRhombus = " ";
+    public static final String STAR_CONST = "* ";
+    public static final String SPACE_CONST = " ";
 
     public static void main(String[] args) throws IOException {
 
@@ -21,19 +21,19 @@ public class Rhombus {
 
         for (int i = 0; i < diagonalOfRhombus; i++) {
             for (int space = 0; space < diagonalOfRhombus - i; space ++) {
-                System.out.print(outsideOfRhombus);
+                System.out.print(SPACE_CONST);
             }
             for (int j = 0; j <= i; j++) {
-                System.out.print(innerOfRhombus);
+                System.out.print(STAR_CONST);
             }
             System.out.println();
         }
         for (int i = diagonalOfRhombus - 2; i >= 0; i--) {
             for (int space = 0; space < diagonalOfRhombus - i; space++) {
-                System.out.print(outsideOfRhombus);
+                System.out.print(SPACE_CONST);
             }
             for (int j = 0; j <= i; j++) {
-                System.out.print(innerOfRhombus);
+                System.out.print(STAR_CONST);
             }
             System.out.println();
         }
